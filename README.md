@@ -207,7 +207,7 @@ com.assessment.leavemgmt/
 ## 🧪 Running Tests
 
 ```bash
-cd backend1
+cd backend
 mvn test
 ```
 
@@ -219,7 +219,7 @@ Covers service-layer logic for both employee and leave-request operations using 
 
 ```
 employee-leave-management/
-├── backend1/            → Spring Boot REST API
+├── backend1            → Spring Boot REST API
 │   ├── src/main/java/com/assessment/leavemgmt/
 │   ├── src/test/java/com/assessment/leavemgmt/
 │   └── sql/schema.sql
