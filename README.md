@@ -92,7 +92,7 @@ com.assessment.leavemgmt/
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd employee-leave-management/backend1
+   cd employee-leave-management/backend
    ```
 
 2. **Configure the database**
